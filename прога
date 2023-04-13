@@ -1,0 +1,8 @@
+input(type=`checkbox`)
+input(type=`checkbox`)
+input(type=`checkbox`)
+input(type=`checkbox`)
+.wrapper
+
+ svg(xmlns=`https://www.w3.org/2000/svg` viewbox=`0 0
+ 98.138617 90.336713`)
